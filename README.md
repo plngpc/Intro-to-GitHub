@@ -9,3 +9,5 @@ This repository was created as part of an assignment to learn the fundamentals o
 
 ## Contents
 This repo contains sample files used to demonstrate uploading, editing, and version-controlling content on GitHub.
+
+Updated locally via Git as part of Task 4.
